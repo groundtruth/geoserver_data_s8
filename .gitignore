@@ -1,0 +1,13 @@
+/data
+/demo
+/gwc
+/logs
+/www
+/temp
+/uploader
+/imports
+
+/old_*
+
+.DS_Store
+*.sw*
