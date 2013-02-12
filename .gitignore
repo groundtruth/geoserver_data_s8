@@ -6,6 +6,7 @@
 /temp
 /uploader
 /imports
+*.example
 
 /old_*
 
