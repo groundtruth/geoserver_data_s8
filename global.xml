@@ -1,5 +1,6 @@
 <global>
   <settings>
+    <id>SettingsInfoImpl-9dde92e:13cd01a31fd:-8000</id>
     <contact>
       <addressCity>New York</addressCity>
       <addressCountry>USA</addressCountry>
@@ -34,7 +35,7 @@
     <queueType>UNBOUNDED</queueType>
     <imageIOCacheThreshold>10240</imageIOCacheThreshold>
   </coverageAccess>
-  <updateSequence>59</updateSequence>
+  <updateSequence>138</updateSequence>
   <featureTypeCacheSize>0</featureTypeCacheSize>
   <globalServices>true</globalServices>
   <xmlPostRequestLogBufferSize>1024</xmlPostRequestLogBufferSize>
