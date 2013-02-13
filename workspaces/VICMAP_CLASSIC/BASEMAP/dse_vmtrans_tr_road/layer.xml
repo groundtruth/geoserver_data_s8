@@ -1,17 +1,17 @@
 <layer>
-  <name>dse_vmlite_vmlite_victoria_polygon_su2</name>
-  <id>LayerInfoImpl-9dde92e:13cd01a31fd:-7f0f</id>
+  <name>dse_vmtrans_tr_road</name>
+  <id>LayerInfoImpl-9dde92e:13cd01a31fd:-7ef6</id>
   <type>VECTOR</type>
   <defaultStyle>
-    <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7ff4</id>
+    <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fe0</id>
   </defaultStyle>
   <styles class="linked-hash-set">
     <style>
-      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7ff4</id>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fe0</id>
     </style>
   </styles>
   <resource class="featureType">
-    <id>FeatureTypeInfoImpl-9dde92e:13cd01a31fd:-7f10</id>
+    <id>FeatureTypeInfoImpl-9dde92e:13cd01a31fd:-7ef7</id>
   </resource>
   <enabled>true</enabled>
   <attribution>

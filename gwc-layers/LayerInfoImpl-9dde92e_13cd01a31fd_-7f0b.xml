@@ -1,7 +1,7 @@
 <GeoServerTileLayer>
-  <id>LayerInfoImpl-9dde92e:13cd01a31fd:-7f0f</id>
+  <id>LayerInfoImpl-9dde92e:13cd01a31fd:-7f0b</id>
   <enabled>true</enabled>
-  <name>VICMAP_CLASSIC:dse_vmlite_vmlite_victoria_polygon_su2</name>
+  <name>VICMAP_CLASSIC:dse_vmlite_vmlite_victoria_polygon_su5</name>
   <mimeFormats>
     <string>image/png</string>
     <string>image/jpeg</string>

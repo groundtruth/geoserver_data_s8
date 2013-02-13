@@ -1,0 +1,17 @@
+<layer>
+  <name>gt_vmadd_address_opti</name>
+  <id>LayerInfoImpl-9dde92e:13cd01a31fd:-7eea</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fef</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-9dde92e:13cd01a31fd:-7eeb</id>
+  </resource>
+  <enabled>true</enabled>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
