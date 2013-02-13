@@ -1,0 +1,21 @@
+<layer>
+  <name>dse_vmlite_vmlite_tr_road</name>
+  <id>LayerInfoImpl-9dde92e:13cd01a31fd:-7f13</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7ff0</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7ff0</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-9dde92e:13cd01a31fd:-7f14</id>
+  </resource>
+  <enabled>true</enabled>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
