@@ -1,0 +1,55 @@
+<layer>
+  <name>vw_dse_vmplan_plan_zone</name>
+  <id>LayerInfoImpl-7ed16dca:13cd8525a90:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fa4</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fc7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f93</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fa0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fac</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f98</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f90</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fc4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fa9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f9e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f9f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f9b</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fc5</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7ed16dca:13cd8525a90:-7ffa</id>
+  </resource>
+  <enabled>true</enabled>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
