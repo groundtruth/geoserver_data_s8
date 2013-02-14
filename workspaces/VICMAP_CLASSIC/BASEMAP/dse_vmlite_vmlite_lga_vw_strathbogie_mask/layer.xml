@@ -1,0 +1,16 @@
+<layer>
+  <name>dse_vmlite_vmlite_lga_vw_strathbogie_mask</name>
+  <id>LayerInfoImpl--419a271b:13cd6265a31:-7ff2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f7a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--419a271b:13cd6265a31:-7ff3</id>
+  </resource>
+  <enabled>true</enabled>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
