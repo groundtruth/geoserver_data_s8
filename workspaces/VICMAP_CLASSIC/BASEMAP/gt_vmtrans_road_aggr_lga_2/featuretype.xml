@@ -24,15 +24,15 @@
   <nativeBoundingBox>
     <minx>140.963836669922</minx>
     <maxx>149.215744018555</maxx>
-    <miny>-39.0520973205566</miny>
-    <maxy>-34.9140090942383</maxy>
-    <crs>EPSG:4283</crs>
+    <miny>-39.05209735883393</miny>
+    <maxy>-34.914009127932594</maxy>
+    <crs>EPSG:4326</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
     <minx>140.963836669922</minx>
     <maxx>149.215744018555</maxx>
-    <miny>-39.0520973205566</miny>
-    <maxy>-34.9140090942383</maxy>
+    <miny>-39.05209735883393</miny>
+    <maxy>-34.914009127932594</maxy>
     <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
   DATUM[&quot;WGS84&quot;, 
     SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
