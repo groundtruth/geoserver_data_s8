@@ -6,10 +6,15 @@
       <sld:Name>Parcel</sld:Name>
       <sld:Title>Parcel outline with label</sld:Title>
       <sld:FeatureTypeStyle>
-        <sld:Name>name</sld:Name>
+
         <sld:Rule>
-          <sld:Title>dark yellow polygon</sld:Title>
-          <sld:MaxScaleDenominator>25000.0</sld:MaxScaleDenominator>
+          <sld:Title>Approved</sld:Title>
+          <ogc:Filter>
+            <ogc:PropertyIsNotEqualTo>
+               <ogc:PropertyName>pc_stat</ogc:PropertyName>
+               <ogc:Literal>P</ogc:Literal>
+            </ogc:PropertyIsNotEqualTo>
+          </ogc:Filter>
           <sld:PolygonSymbolizer>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#CCCCCC</sld:CssParameter>
@@ -17,6 +22,35 @@
               <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
+        </sld:Rule>
+
+        <sld:Rule>
+          <sld:Title>Proposed</sld:Title>
+          <ogc:Filter>
+            <ogc:PropertyIsEqualTo>
+               <ogc:PropertyName>pc_stat</ogc:PropertyName>
+               <ogc:Literal>P</ogc:Literal>
+            </ogc:PropertyIsEqualTo>          
+          </ogc:Filter>
+          <sld:PolygonSymbolizer>
+            <sld:Stroke>
+              <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
+              <sld:CssParameter name="stroke-opacity">1.0</sld:CssParameter>
+              <sld:CssParameter name="stroke-width">2.0</sld:CssParameter>
+            </sld:Stroke>
+          </sld:PolygonSymbolizer>
+          <sld:PolygonSymbolizer>
+            <sld:Stroke>
+              <sld:CssParameter name="stroke">#CCCCCC</sld:CssParameter>
+              <sld:CssParameter name="stroke-opacity">1.0</sld:CssParameter>
+              <sld:CssParameter name="stroke-width">2.0</sld:CssParameter>
+              <sld:CssParameter name="stroke-dasharray">4.0 4.0</sld:CssParameter>
+            </sld:Stroke>
+          </sld:PolygonSymbolizer>
+        </sld:Rule>
+        
+        <sld:Rule>
+          <sld:MaxScaleDenominator>25000.0</sld:MaxScaleDenominator>
           <sld:TextSymbolizer>
             <sld:Label>
               <ogc:Function name="strReplace">
@@ -63,6 +97,7 @@
               <VendorOption name="autoWrap">50</VendorOption>
           </sld:TextSymbolizer>
         </sld:Rule>
+
       </sld:FeatureTypeStyle>
     </sld:UserStyle>
   </sld:NamedLayer>
