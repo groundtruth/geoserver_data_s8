@@ -1,7 +1,7 @@
 <GeoServerTileLayer>
-  <id>LayerInfoImpl-79d6428b:13dcdb6c638:-7fcf</id>
+  <id>LayerInfoImpl-79d6428b:13dcdb6c638:-7fbc</id>
   <enabled>true</enabled>
-  <name>DSE_FEATURES_OF_INTEREST:dse_vmfeat_foi_point_vw_worship_place_of</name>
+  <name>DSE_FEATURES_OF_INTEREST:gt_vmfeat_foi_point_vw_worship_place_of</name>
   <mimeFormats>
     <string>image/png</string>
     <string>image/jpeg</string>

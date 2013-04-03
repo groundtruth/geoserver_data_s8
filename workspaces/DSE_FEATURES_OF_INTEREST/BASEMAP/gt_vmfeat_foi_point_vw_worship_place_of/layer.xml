@@ -1,12 +1,12 @@
 <layer>
-  <name>dse_vmfeat_foi_point_vw_worship_place_of</name>
-  <id>LayerInfoImpl-79d6428b:13dcdb6c638:-7fcf</id>
+  <name>gt_vmfeat_foi_point_vw_worship_place_of</name>
+  <id>LayerInfoImpl-79d6428b:13dcdb6c638:-7fbc</id>
   <type>VECTOR</type>
   <defaultStyle>
     <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7f84</id>
   </defaultStyle>
   <resource class="featureType">
-    <id>FeatureTypeInfoImpl-79d6428b:13dcdb6c638:-7fd0</id>
+    <id>FeatureTypeInfoImpl-79d6428b:13dcdb6c638:-7fbd</id>
   </resource>
   <enabled>true</enabled>
   <attribution>

@@ -1,10 +1,10 @@
 <GeoServerTileLayer>
-  <id>LayerInfoImpl-79d6428b:13dcdb6c638:-7fca</id>
+  <id>LayerInfoImpl-79d6428b:13dcdb6c638:-7fc5</id>
   <enabled>true</enabled>
-  <name>DSE_FEATURES_OF_INTEREST:gt_vmfeat_foi_point_vw_facility_sport</name>
+  <name>DSE_FEATURES_OF_INTEREST:gt_vmfeat_foi_point_vw_centre_educational</name>
   <mimeFormats>
-    <string>image/jpeg</string>
     <string>image/png</string>
+    <string>image/jpeg</string>
   </mimeFormats>
   <gridSubsets>
     <gridSubset>
