@@ -1,0 +1,16 @@
+<layer>
+  <name>dse_vmlite_vmlite_tr_rail_station</name>
+  <id>LayerInfoImpl-3da7a9e3:13dd29b47b6:-7fe1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2d72c0d4:123e3a69b74:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3da7a9e3:13dd29b47b6:-7fe2</id>
+  </resource>
+  <enabled>true</enabled>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
