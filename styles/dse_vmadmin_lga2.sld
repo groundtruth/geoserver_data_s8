@@ -15,9 +15,12 @@
               <sld:CssParameter name="stroke-width">8</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>   
+        </sld:Rule>
+        <sld:Rule>
+          <sld:MaxScaleDenominator>50000.0</sld:MaxScaleDenominator>
           <sld:TextSymbolizer>
             <sld:Label>
-              <ogc:PropertyName>lga_code</ogc:PropertyName>
+              <ogc:PropertyName>lga_name</ogc:PropertyName>
             </sld:Label>
             <sld:Font>
               <sld:CssParameter name="font-family">Tahoma</sld:CssParameter>
