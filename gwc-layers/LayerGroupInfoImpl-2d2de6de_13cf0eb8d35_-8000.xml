@@ -3,19 +3,15 @@
   <enabled>true</enabled>
   <name>VICMAP_CLASSIC:VicmapClassic</name>
   <mimeFormats>
-    <string>image/png8</string>
+    <string>image/png</string>
+    <string>image/jpeg</string>
   </mimeFormats>
   <gridSubsets>
     <gridSubset>
       <gridSetName>EPSG:900913</gridSetName>
-      <extent>
-        <coords>
-          <double>1.5571980713340968E7</double>
-          <double>-4865942.279503176</double>
-          <double>1.67537226496392E7</double>
-          <double>-3895303.9633938936</double>
-        </coords>
-      </extent>
+    </gridSubset>
+    <gridSubset>
+      <gridSetName>EPSG:4326</gridSetName>
     </gridSubset>
   </gridSubsets>
   <metaWidthHeight>
@@ -24,5 +20,5 @@
   </metaWidthHeight>
   <parameterFilters/>
   <gutter>0</gutter>
-  <autoCacheStyles>false</autoCacheStyles>
+  <autoCacheStyles>true</autoCacheStyles>
 </GeoServerTileLayer>
