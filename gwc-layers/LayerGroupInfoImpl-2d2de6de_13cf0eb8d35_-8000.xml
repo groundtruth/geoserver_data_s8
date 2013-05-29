@@ -3,15 +3,11 @@
   <enabled>true</enabled>
   <name>VICMAP_CLASSIC:VicmapClassic</name>
   <mimeFormats>
-    <string>image/png</string>
-    <string>image/jpeg</string>
+    <string>image/png8</string>
   </mimeFormats>
   <gridSubsets>
     <gridSubset>
       <gridSetName>EPSG:900913</gridSetName>
-    </gridSubset>
-    <gridSubset>
-      <gridSetName>EPSG:4326</gridSetName>
     </gridSubset>
   </gridSubsets>
   <metaWidthHeight>

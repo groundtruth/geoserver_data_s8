@@ -3,15 +3,11 @@
   <enabled>true</enabled>
   <name>VICMAP_CLASSIC:LabelClassic</name>
   <mimeFormats>
-    <string>image/jpeg</string>
-    <string>image/png</string>
+    <string>image/png8</string>
   </mimeFormats>
   <gridSubsets>
     <gridSubset>
       <gridSetName>EPSG:900913</gridSetName>
-    </gridSubset>
-    <gridSubset>
-      <gridSetName>EPSG:4326</gridSetName>
     </gridSubset>
   </gridSubsets>
   <metaWidthHeight>
@@ -20,5 +16,5 @@
   </metaWidthHeight>
   <parameterFilters/>
   <gutter>0</gutter>
-  <autoCacheStyles>false</autoCacheStyles>
+  <autoCacheStyles>true</autoCacheStyles>
 </GeoServerTileLayer>
