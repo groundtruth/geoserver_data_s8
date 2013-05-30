@@ -13,8 +13,8 @@
     <charset>UTF-8</charset>
     <numDecimals>8</numDecimals>
     <onlineResource>http://opengeo.org</onlineResource>
-    <verbose>false</verbose>
-    <verboseExceptions>false</verboseExceptions>
+    <verbose>true</verbose>
+    <verboseExceptions>true</verboseExceptions>
   </settings>
   <jai>
     <allowInterpolation>false</allowInterpolation>
@@ -35,8 +35,9 @@
     <queueType>UNBOUNDED</queueType>
     <imageIOCacheThreshold>10240</imageIOCacheThreshold>
   </coverageAccess>
-  <updateSequence>701</updateSequence>
+  <updateSequence>704</updateSequence>
   <featureTypeCacheSize>0</featureTypeCacheSize>
   <globalServices>true</globalServices>
   <xmlPostRequestLogBufferSize>1024</xmlPostRequestLogBufferSize>
+  <resourceErrorHandling>OGC_EXCEPTION_REPORT</resourceErrorHandling>
 </global>
