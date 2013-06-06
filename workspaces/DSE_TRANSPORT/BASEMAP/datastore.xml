@@ -9,7 +9,7 @@
   <connectionParameters>
     <entry key="Connection timeout">20</entry>
     <entry key="port">5432</entry>
-    <entry key="passwd">crypt1:aPPwGfvrcW50LLJcfbLHClPG1aKWIH59</entry>
+    <entry key="passwd">crypt1:1itULtMHjMfxMcZzL3PVLX0YRMYFxSMC</entry>
     <entry key="dbtype">postgis</entry>
     <entry key="host">localhost</entry>
     <entry key="validate connections">false</entry>
