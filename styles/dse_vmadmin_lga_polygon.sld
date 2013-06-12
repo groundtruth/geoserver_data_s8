@@ -4,12 +4,5 @@
     <sld:Title/>
     <sld:FeatureTypeStyle>
         <sld:Name>name</sld:Name>
-        <sld:Rule>
-            <sld:PolygonSymbolizer>
-                <sld:Fill>
-                    <sld:CssParameter name="fill">#0000ff</sld:CssParameter>
-                </sld:Fill>
-            </sld:PolygonSymbolizer>
-        </sld:Rule>
     </sld:FeatureTypeStyle>
 </sld:UserStyle>
