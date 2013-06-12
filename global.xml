@@ -12,7 +12,7 @@
     <charset>UTF-8</charset>
     <numDecimals>8</numDecimals>
     <onlineResource>http://opengeo.org</onlineResource>
-    <proxyBaseUrl>http://basemap.pozi.com/geoserver/</proxyBaseUrl>
+    <proxyBaseUrl>http://s1.pozi.com/geoserver/</proxyBaseUrl>
     <verbose>true</verbose>
     <verboseExceptions>true</verboseExceptions>
   </settings>
@@ -35,7 +35,7 @@
     <queueType>UNBOUNDED</queueType>
     <imageIOCacheThreshold>10240</imageIOCacheThreshold>
   </coverageAccess>
-  <updateSequence>910</updateSequence>
+  <updateSequence>914</updateSequence>
   <featureTypeCacheSize>0</featureTypeCacheSize>
   <globalServices>true</globalServices>
   <xmlPostRequestLogBufferSize>1024</xmlPostRequestLogBufferSize>
