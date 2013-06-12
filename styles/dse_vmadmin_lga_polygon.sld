@@ -21,7 +21,17 @@
                     <sld:CssParameter name="font-style">bold</sld:CssParameter>
                     <sld:CssParameter name="font-weight">normal</sld:CssParameter>
                 </sld:Font>
-                <sld:Fill/>
+                <sld:Halo>
+                    <sld:Radius>1.5</sld:Radius>
+                    <sld:Fill>
+                        <sld:CssParameter name="fill">#FFFFFF</sld:CssParameter>
+                    </sld:Fill>
+                </sld:Halo>
+                <sld:Fill>
+                    <sld:GraphicFill>
+                        <sld:Graphic/>
+                    </sld:GraphicFill>
+                </sld:Fill>
             </sld:TextSymbolizer>
         </sld:Rule>
     </sld:FeatureTypeStyle>
