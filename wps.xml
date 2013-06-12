@@ -1,6 +1,6 @@
 <wps>
   <id>wps</id>
-  <enabled>true</enabled>
+  <enabled>false</enabled>
   <versions>
     <org.geotools.util.Version>
       <version>1.0.0</version>
