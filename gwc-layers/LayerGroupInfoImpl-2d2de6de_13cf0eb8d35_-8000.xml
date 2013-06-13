@@ -16,5 +16,5 @@
   </metaWidthHeight>
   <parameterFilters/>
   <gutter>0</gutter>
-  <autoCacheStyles>true</autoCacheStyles>
+  <autoCacheStyles>false</autoCacheStyles>
 </GeoServerTileLayer>
