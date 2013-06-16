@@ -1,5 +1,5 @@
 <featureType>
-  <id>FeatureTypeInfoImpl-3da7a9e3:13dd29b47b6:-7fec</id>
+  <id>FeatureTypeInfoImpl--796c33eb:13f4b585626:-7ffe</id>
   <name>gt_property_address</name>
   <nativeName>gt_property_address</nativeName>
   <namespace>
@@ -22,17 +22,17 @@
   AUTHORITY[&quot;EPSG&quot;,&quot;4283&quot;]]</nativeCRS>
   <srs>EPSG:4283</srs>
   <nativeBoundingBox>
-    <minx>142.052398681641</minx>
-    <maxx>147.82209777832</maxx>
-    <miny>-38.8503379821777</miny>
-    <maxy>-35.6817169189453</maxy>
+    <minx>142.040328979492</minx>
+    <maxx>147.844619750977</maxx>
+    <miny>-38.8866729736328</miny>
+    <maxy>-35.767406463623</maxy>
     <crs>EPSG:4283</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>142.052398681641</minx>
-    <maxx>147.82209777832</maxx>
-    <miny>-38.85033798125579</miny>
-    <maxy>-35.681716918051045</maxy>
+    <minx>142.040328979492</minx>
+    <maxx>147.844619750977</maxx>
+    <miny>-38.886672972710635</miny>
+    <maxy>-35.767406462727855</maxy>
     <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
   DATUM[&quot;WGS84&quot;, 
     SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 

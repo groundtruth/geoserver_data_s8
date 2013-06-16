@@ -1,12 +1,12 @@
 <layer>
   <name>gt_property_address</name>
-  <id>LayerInfoImpl-3da7a9e3:13dd29b47b6:-7feb</id>
+  <id>LayerInfoImpl--796c33eb:13f4b585626:-7ffd</id>
   <type>VECTOR</type>
   <defaultStyle>
     <id>StyleInfoImpl-9dde92e:13cd01a31fd:-7fe7</id>
   </defaultStyle>
   <resource class="featureType">
-    <id>FeatureTypeInfoImpl-3da7a9e3:13dd29b47b6:-7fec</id>
+    <id>FeatureTypeInfoImpl--796c33eb:13f4b585626:-7ffe</id>
   </resource>
   <enabled>true</enabled>
   <attribution>
