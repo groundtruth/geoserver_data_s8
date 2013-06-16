@@ -35,9 +35,9 @@
     <queueType>UNBOUNDED</queueType>
     <imageIOCacheThreshold>10240</imageIOCacheThreshold>
   </coverageAccess>
-  <updateSequence>1044</updateSequence>
+  <updateSequence>1061</updateSequence>
   <featureTypeCacheSize>0</featureTypeCacheSize>
   <globalServices>true</globalServices>
-  <xmlPostRequestLogBufferSize>1024</xmlPostRequestLogBufferSize>
+  <xmlPostRequestLogBufferSize>65536</xmlPostRequestLogBufferSize>
   <resourceErrorHandling>OGC_EXCEPTION_REPORT</resourceErrorHandling>
 </global>
