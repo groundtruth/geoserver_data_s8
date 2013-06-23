@@ -7,12 +7,12 @@
       <addressCountry>Australia</addressCountry>
       <addressType>web</addressType>
       <contactEmail>info@groundtruth.com.au</contactEmail>
-      <contactOrganization>Groundtruth Pty Ltd</contactOrganization>
+      <contactOrganization>Groundtruth</contactOrganization>
     </contact>
     <charset>UTF-8</charset>
     <numDecimals>8</numDecimals>
     <onlineResource>http://opengeo.org</onlineResource>
-    <proxyBaseUrl>http://s1.pozi.com/geoserver/</proxyBaseUrl>
+    <proxyBaseUrl>http://s5.pozi.com/geoserver/</proxyBaseUrl>
     <verbose>true</verbose>
     <verboseExceptions>true</verboseExceptions>
   </settings>
@@ -35,7 +35,7 @@
     <queueType>UNBOUNDED</queueType>
     <imageIOCacheThreshold>10240</imageIOCacheThreshold>
   </coverageAccess>
-  <updateSequence>1061</updateSequence>
+  <updateSequence>1067</updateSequence>
   <featureTypeCacheSize>0</featureTypeCacheSize>
   <globalServices>true</globalServices>
   <xmlPostRequestLogBufferSize>65536</xmlPostRequestLogBufferSize>
