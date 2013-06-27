@@ -1,0 +1,51 @@
+<wmsLayer>
+  <id>WMSLayerInfoImpl--27b891ab:13f74336495:-1ab</id>
+  <name>VMADMIN.LOCALITY_POLYGON</name>
+  <nativeName>sii:VMADMIN.LOCALITY_POLYGON</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--27b891ab:13f74336495:-245</id>
+  </namespace>
+  <title>Locality Polygon (Vicmap)</title>
+  <description>layerconfig;&#xd;
+&#xd;
+ANZVI0803003027=sii:VMADMIN.LOCALITY_POLYGON</description>
+  <keywords>
+    <string>ANZVI0803003027</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;GDA94&quot;, 
+  DATUM[&quot;Geocentric Datum of Australia 1994&quot;, 
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6283&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4283&quot;]]</nativeCRS>
+  <srs>EPSG:900913</srs>
+  <nativeBoundingBox>
+    <minx>140.96190245</minx>
+    <maxx>149.97629085</maxx>
+    <miny>-39.13658096</miny>
+    <maxy>-33.98135198</maxy>
+    <crs>EPSG:4283</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>0.001266282314494</minx>
+    <maxx>0.0013472599432611</maxx>
+    <miny>-3.51569888443E-4</miny>
+    <maxy>-3.052596785853E-4</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="wmsStore">
+    <id>WMSStoreInfoImpl--27b891ab:13f74336495:-1c1</id>
+  </store>
+</wmsLayer>
