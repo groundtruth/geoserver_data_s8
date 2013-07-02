@@ -1,15 +1,16 @@
 <wmsLayer>
-  <id>WMSLayerInfoImpl--27b891ab:13f976cd427:-5d3e</id>
-  <name>VMPROP.PROPERTY_VIEW</name>
-  <nativeName>sii:VMPROP.PROPERTY_VIEW</nativeName>
+  <id>WMSLayerInfoImpl--27b891ab:13f976cd427:-5a13</id>
+  <name>VSUP.PROPERTY_VIEW_SDO</name>
+  <nativeName>sii:VSUP.PROPERTY_VIEW_SDO</nativeName>
   <namespace>
     <id>NamespaceInfoImpl--27b891ab:13f74336495:-245</id>
   </namespace>
-  <title>Properties 1 (DEPI)</title>
-  <description>layerconfig:&#xd;
-none</description>
-  <abstract>layerconfig:&#xd;
-none</abstract>
+  <title>Properties 3 (DEPI)</title>
+  <description></description>
+  <keywords>
+    <string>features</string>
+    <string>PROPERTY_VIEW_SDO</string>
+  </keywords>
   <nativeCRS>GEOGCS[&quot;GDA94&quot;, 
   DATUM[&quot;Geocentric Datum of Australia 1994&quot;, 
     SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
@@ -22,17 +23,17 @@ none</abstract>
   AUTHORITY[&quot;EPSG&quot;,&quot;4283&quot;]]</nativeCRS>
   <srs>EPSG:900913</srs>
   <nativeBoundingBox>
-    <minx>140.96212102</minx>
-    <maxx>149.97672461</maxx>
-    <miny>-39.18613188</miny>
-    <maxy>-33.98135201</maxy>
+    <minx>140.9621</minx>
+    <maxx>149.9767</maxx>
+    <miny>-39.1861</miny>
+    <maxy>-33.9814</maxy>
     <crs>EPSG:4283</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
-    <minx>140.96212102</minx>
-    <maxx>149.97672461</maxx>
-    <miny>-39.18613187907581</miny>
-    <maxy>-33.98135200912513</maxy>
+    <minx>140.9621</minx>
+    <maxx>149.9767</maxx>
+    <miny>-39.18609999907582</miny>
+    <maxy>-33.98139999912513</maxy>
     <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
   DATUM[&quot;WGS84&quot;, 
     SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
