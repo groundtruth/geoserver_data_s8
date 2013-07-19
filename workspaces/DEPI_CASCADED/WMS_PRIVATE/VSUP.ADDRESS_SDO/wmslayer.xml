@@ -45,6 +45,9 @@
   </latLonBoundingBox>
   <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
   <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
   <store class="wmsStore">
     <id>WMSStoreInfoImpl--27b891ab:13f74336495:-1c1</id>
   </store>
