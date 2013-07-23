@@ -1,0 +1,16 @@
+<layer>
+  <name>dse_vmlite_vmlite_lga_vw_shepparton_mask</name>
+  <id>LayerInfoImpl-866446:13fe55b145e:1cca</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-866446:13fe55b145e:1cd1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-866446:13fe55b145e:1cc9</id>
+  </resource>
+  <enabled>true</enabled>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
