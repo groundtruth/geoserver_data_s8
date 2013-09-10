@@ -62,7 +62,7 @@
             </sld:Label>
             <sld:Font>
               <sld:CssParameter name="font-family">Tahoma</sld:CssParameter>
-              <sld:CssParameter name="font-size">14</sld:CssParameter>
+              <sld:CssParameter name="font-size">8</sld:CssParameter>
               <sld:CssParameter name="font-style">normal</sld:CssParameter>
               <sld:CssParameter name="font-weight">normal</sld:CssParameter>
             </sld:Font>
@@ -83,18 +83,19 @@
             </sld:LabelPlacement>
             <sld:Halo>
               <sld:Radius>
-                <ogc:Literal>1</ogc:Literal>
+                <ogc:Literal>2</ogc:Literal>
               </sld:Radius>
               <sld:Fill>
                 <sld:CssParameter name="fill">#FFFFFF</sld:CssParameter>
               </sld:Fill>
             </sld:Halo>
             <sld:Fill>
-              <sld:CssParameter name="fill">#999999</sld:CssParameter>
+              <sld:CssParameter name="fill">#2E2E2E</sld:CssParameter>
             </sld:Fill>
-              <VendorOption name="spaceAround">10</VendorOption>
+              <VendorOption name="spaceAround">3</VendorOption>
               <VendorOption name="group">true</VendorOption>
               <VendorOption name="autoWrap">50</VendorOption>
+              <VendorOption name="polygonAlign">mbr</VendorOption>
           </sld:TextSymbolizer>
         </sld:Rule>
 
