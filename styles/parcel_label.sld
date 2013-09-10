@@ -64,7 +64,7 @@
               <sld:CssParameter name="font-family">Tahoma</sld:CssParameter>
               <sld:CssParameter name="font-size">8</sld:CssParameter>
               <sld:CssParameter name="font-style">normal</sld:CssParameter>
-              <sld:CssParameter name="font-weight">normal</sld:CssParameter>
+              <sld:CssParameter name="font-weight">bold</sld:CssParameter>
             </sld:Font>
             <sld:LabelPlacement>
               <sld:PointPlacement>
@@ -90,7 +90,7 @@
               </sld:Fill>
             </sld:Halo>
             <sld:Fill>
-              <sld:CssParameter name="fill">#2E2E2E</sld:CssParameter>
+              <sld:CssParameter name="fill">#0F0F0F</sld:CssParameter>
             </sld:Fill>
               <VendorOption name="spaceAround">3</VendorOption>
               <VendorOption name="group">true</VendorOption>
