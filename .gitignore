@@ -1,7 +1,7 @@
 /data
 /demo
 /gwc
-/logs
+/logs/*.log*
 /www
 /temp
 /uploader
