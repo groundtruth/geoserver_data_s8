@@ -6,7 +6,7 @@
     <id>NamespaceInfoImpl-9dde92e:13cd01a31fd:-7f65</id>
   </namespace>
   <title>Property Addresses (Vicmap)</title>
-  <abstract>Source: Victoria&apos;s Department of Sustainability and Environment (DSE)</abstract>
+  <abstract>DEPI, Vicmap data (property, address)</abstract>
   <keywords>
     <string>features</string>
     <string>gt_property_address</string>
@@ -44,6 +44,7 @@
   </latLonBoundingBox>
   <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
   <enabled>true</enabled>
+  <advertised>true</advertised>
   <metadata>
     <entry key="cachingEnabled">false</entry>
   </metadata>
