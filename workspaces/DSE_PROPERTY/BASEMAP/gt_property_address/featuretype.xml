@@ -6,6 +6,7 @@
     <id>NamespaceInfoImpl-9dde92e:13cd01a31fd:-7f6b</id>
   </namespace>
   <title>Addresses</title>
+  <abstract>DEPI, Vicmap data (property, address)</abstract>
   <keywords>
     <string>features</string>
     <string>gt_property_address</string>
@@ -43,6 +44,7 @@
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
+  <advertised>true</advertised>
   <metadata>
     <entry key="cachingEnabled">false</entry>
   </metadata>

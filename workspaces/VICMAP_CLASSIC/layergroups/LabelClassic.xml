@@ -28,7 +28,7 @@
     <crs>EPSG:4326</crs>
   </bounds>
   <metadata>
-    <entry key="abstract">Labels for roads and localities</entry>
+    <entry key="abstract">DEPI Vicmap data (feature and transport)</entry>
     <entry key="title">LabelClassic</entry>
   </metadata>
 </layerGroup>
