@@ -136,6 +136,7 @@
     <crs>EPSG:4326</crs>
   </bounds>
   <metadata>
+    <entry key="abstract">Classic-style Vicmap data basemap</entry>
     <entry key="title">VicmapClassic</entry>
   </metadata>
 </layerGroup>
