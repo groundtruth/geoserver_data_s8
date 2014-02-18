@@ -21,7 +21,7 @@
               <CssParameter name="fill">#FFFFFF</CssParameter>
             </Fill>
             <Stroke>
-              <CssParameter name="stroke">#6C9ED4</CssParameter>
+              <CssParameter name="stroke">#20317F</CssParameter>
               <CssParameter name="stroke-opacity">0.9</CssParameter>
               <CssParameter name="stroke-width">6</CssParameter>
             </Stroke>
