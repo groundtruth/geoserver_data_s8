@@ -3,12 +3,13 @@
   <id>LayerInfoImpl--432dc7f9:146264fb0e6:8e0</id>
   <type>VECTOR</type>
   <defaultStyle>
-    <id>StyleInfoImpl--2d72c0d4:123e3a69b74:-7ffe</id>
+    <id>StyleInfoImpl--432dc7f9:146264fb0e6:8ea</id>
   </defaultStyle>
   <resource class="featureType">
     <id>FeatureTypeInfoImpl--432dc7f9:146264fb0e6:8df</id>
   </resource>
   <enabled>true</enabled>
+  <queryable>false</queryable>
   <attribution>
     <logoWidth>0</logoWidth>
     <logoHeight>0</logoHeight>

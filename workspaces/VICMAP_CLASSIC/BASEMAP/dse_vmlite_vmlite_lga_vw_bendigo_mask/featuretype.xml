@@ -45,6 +45,7 @@
   <enabled>true</enabled>
   <advertised>true</advertised>
   <metadata>
+    <entry key="cachingEnabled">false</entry>
     <entry key="JDBC_VIRTUAL_TABLE">
       <virtualTable>
         <name>dse_vmlite_vmlite_lga_vw_bendigo_mask</name>
