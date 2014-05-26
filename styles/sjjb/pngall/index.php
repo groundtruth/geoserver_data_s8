@@ -1,9 +1,9 @@
 <?php
 // error_reporting (E_ALL ^ E_NOTICE);
 // gallery settings
-$itemsPerPage = '64';         // number of images per page    
-$thumb_width  = '96';        // width of thumbnails
-$thumb_height = '96';         // height of thumbnails
+$itemsPerPage = '512';         // number of images per page    
+$thumb_width  = '64';        // width of thumbnails
+$thumb_height = '64';         // height of thumbnails
 $src_folder   = '.';             // current folder
 $src_files    = scandir($src_folder); // files in current folder
 $extensions   = array(".jpg",".png",".gif",".JPG",".PNG",".GIF"); // allowed extensions in photo gallery
@@ -61,7 +61,7 @@ color:#222;
 .gallery {
 position:relative;
 overflow:hidden;
-width:520px;
+width:880px;
 margin:15px auto;
 padding:50px;
 background:#eee;
@@ -97,7 +97,7 @@ font-weight:400;
 .gallery .thumb {
 overflow:hidden;
 float:left;
-width:110px;
+width:75px;
 height:75px;
 margin:5px;
 border:5px solid #fff;
@@ -105,7 +105,7 @@ border:5px solid #fff;
 
 .gallery .thumb:hover {
 border:0;
-width:120px;
+width:85px;
 height:85px;
 }
 
@@ -138,10 +138,6 @@ border:0;
 </style>
 </head>
 <body>
-
-<div align="center" style="font-size:13px;font-weight:bold;">
-  <a href="http://www.foliopages.com/php-photo-gallery-no-database">&laquo; Back to FolioPages.com</a>
-</div>
 
 <div class="gallery">  
 <?php 
